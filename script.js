@@ -88,8 +88,8 @@
      updateProgress(checkCompletion);
      saveTaskToLocal();
  };
- addTaskBtn.addEventListener('click',
-     addTask);
+ addTaskBtn.addEventListener('click',()=>
+     addTask());
      taskInput.addEventListener('keypress',(e)=>{
          if(e.key==='Enter'){
              e.preventDefault();
