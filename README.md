@@ -33,8 +33,7 @@ This app allows users to add, edit, and delete tasks, track progress with a prog
 This project was built by following a tutorial video by **CSSnippets**.
 
 - 🎥 Original video: [YouTube Link](https://youtu.be/gRkaen6MeQc?si=wX_tIpomOkvkwWXX)
-- 
-- 📦 Font Awesome: [https://fontawesome.com/](https://fontawesome.com/)  
+-  CDN libraries 📚:  [https://cdnjs.com/libraries/font-awesome]
 - 🎊 Confetti library: [https://confetti.js.org/](https://confetti.js.org/)  
 - 🔤 Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
