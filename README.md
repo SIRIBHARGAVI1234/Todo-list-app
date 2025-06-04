@@ -38,6 +38,12 @@ This project was built by following a tutorial video by **CSSnippets**.
 - 🔤 Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
 ---
+## Images
+
+All images used in this project are sourced from [Pixabay](https://pixabay.com/), which provides free images for personal and commercial use without attribution required.
+
+Icons are from FontAwesome(https://fontawesome.com/) and are used under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
 
 ## 📜 License
 
