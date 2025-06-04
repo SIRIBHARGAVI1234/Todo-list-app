@@ -27,17 +27,15 @@ This app allows users to add, edit, and delete tasks, track progress with a prog
 6. Your tasks are saved locally and will remain after refreshing the page.
 
 ---
-
 ## 📚 Resources & Credits
 
 This project was built by following a tutorial video by **CSSnippets**.
 
-- 🎥 Original video: [YouTube Link](https://youtu.be/gRkaen6MeQc?si=wX_tIpomOkvkwWXX)
--  CDN libraries 📚:  [https://cdnjs.com/libraries/font-awesome]
-- 🎊 Confetti library: [https://confetti.js.org/](https://confetti.js.org/)  
-- 🔤 Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+- 🎥 Original video: [YouTube Link](https://youtu.be/gRkaen6MeQc?si=wX_tIpomOkvkwWXX)  
+- 📚 CDN libraries: [Font Awesome](https://cdnjs.com/libraries/font-awesome)  
+- 🎊 Confetti library: [confetti.js.org](https://confetti.js.org/)  
+- 🔤 Google Fonts: [fonts.google.com](https://fonts.google.com/)
 
----
 ## Images
 
 All images used in this project are sourced from [Pixabay](https://pixabay.com/), which provides free images for personal and commercial use without attribution required.
